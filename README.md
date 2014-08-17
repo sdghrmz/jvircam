@@ -1,4 +1,4 @@
 jvircam
 =======
 
-Virtual camera
+Java Virtual Camera
